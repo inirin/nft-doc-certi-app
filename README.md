@@ -1,4 +1,4 @@
-# ipfs-app
+# NFT 기반 문서 자격증명 BApp
 
 ## Project setup
 ```
