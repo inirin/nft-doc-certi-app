@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Run on web browser
+```
+http://127.0.0.1:8077
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
